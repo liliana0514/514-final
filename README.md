@@ -15,8 +15,8 @@ A **smart color collector** for your future design 💡
 - VEML7700 (Lux Sensor)
 - Button(6x6mm)
 - TCS2300 (Color Sensor)
-![The Sensor Device](https://github.com/liliana0514/514-final/blob/main/The%20Display%20Device.png?raw=true)
-![Signal Processing - Sensor Device](https://github.com/liliana0514/514-final/blob/main/Signal%20Processing%20-%20Display%20Device.png?raw=true)
+![The Sensor Device](https://github.com/liliana0514/514-final/blob/main/The%20Sensor%20Device.png?raw=true)
+![Signal Processing - Sensor Device](https://github.com/liliana0514/514-final/blob/main/Signal%20Processing%20-%20Sensor%20Device.png?raw=true)
 
 ## The Display Device (Wireless Display Screen)
 ### Components
@@ -27,8 +27,8 @@ A **smart color collector** for your future design 💡
 - 3-pin Switch
 - Battery 1000mAh 3.7V 
 
-![The Display Device](https://github.com/liliana0514/514-final/blob/main/The%20Sensor%20Device.png?raw=true)
-![Signal Processing - Display Device](https://github.com/liliana0514/514-final/blob/main/Signal%20Processing%20-%20Sensor%20Device.png?raw=true)
+![The Display Device](https://github.com/liliana0514/514-final/blob/main/The%20Display%20Device.png?raw=true)
+![Signal Processing - Display Device](https://github.com/liliana0514/514-final/blob/main/Signal%20Processing%20-%20Display%20Device.png?raw=true)
 
 ## Information Architecture
 ![Information flow](https://github.com/liliana0514/514-final/blob/main/Information%20flow.jpg?raw=true)
