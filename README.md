@@ -26,4 +26,4 @@ A **smart color collector** for your future design 💡
 - Battery 1000mAh 3.7V 
 
 ## Information Architecture
-![Information flow](https://github.com/liliana0514/Color-Analyzer/blob/main/Color%20Analyzer%201.jpg?raw=true)
+![Information flow](https://github.com/liliana0514/514-final/blob/main/Information%20flow.jpg?raw=true)
