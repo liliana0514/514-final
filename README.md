@@ -31,4 +31,8 @@ A **smart color collector** for your future design 💡
 ![Signal Processing - Display Device](https://github.com/liliana0514/514-final/blob/main/Information%20flow.jpg?raw=true)
 
 ## Information Architecture
+<<<<<<< HEAD
 ![Information flow](https://github.com/liliana0514/514-final/blob/main/Information%20flow.jpg?raw=true)
+=======
+![Information flow](https://github.com/liliana0514/514-final/blob/main/Information%20flow.jpg?raw=true)
+>>>>>>> 85787cb1e10b97f2353044f8f534835617608a70
